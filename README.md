@@ -2,7 +2,7 @@
 
 Responsive e-commerce template containing catalog, filters, product page, shopping cart and other elements of the online store. Built with [UIkit](https://getuikit.com).
 
-Demo: https://chekromul.github.io/uikit-ecommerce-template
+Demo: https://github.com/webdesignermsk/uikit-ecommerce-template/
 
 Also you can see `Sass` port of this theme: [vkovic/uikit-computer-store-template](https://github.com/vkovic/uikit-computer-store-template) 
 
@@ -55,7 +55,7 @@ To clone and run this project, you'll need [Git](https://git-scm.com) and [Node.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/chekromul/uikit-ecommerce-template.git
+$ git clone https://github.com/webdesignermsk/uikit-ecommerce-template.git
 
 # Go into the repository
 $ cd uikit-ecommerce-template
@@ -73,4 +73,4 @@ $ gulp
 
 ## License
 
-This software is licensed under the MIT License © [Roman Chekurov](https://github.com/chekromul)
+This software is licensed under the MIT License © [G-FX Digital](https://github.com/g-fx-digital)
